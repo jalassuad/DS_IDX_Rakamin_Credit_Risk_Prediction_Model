@@ -1,5 +1,5 @@
 # Credit Risk Prediction Model
-**Project-Based Internship – ID/X Partners**
+**Project-Based Internship – ID/X Partners x Rakamin Academy**
 
 ## 📌 Project Overview
 This project focuses on building an **end-to-end Credit Risk Prediction Model** using machine learning to identify **bad loans (high-risk borrowers)** and support better credit decision-making.
