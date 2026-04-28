@@ -1,4 +1,11 @@
 # Credit Risk Prediction Model
+
+![Project Status](https://img.shields.io/badge/project%20status-completed-brightgreen)
+![Model Status](https://img.shields.io/badge/model-production--ready-blue)
+![ML](https://img.shields.io/badge/domain-machine%20learning-purple)
+![Explainable AI](https://img.shields.io/badge/AI-explainable-success)
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+
 **Project-Based Internship – ID/X Partners x Rakamin Academy**
 
 ## 📌 Project Overview
